@@ -8,7 +8,7 @@
 
 
 ## Data Labeler
-
+Change generated source file path and run `python main.py` in [Labeler](Labeler/main.py).
 
 ## Acknowledgements
 
