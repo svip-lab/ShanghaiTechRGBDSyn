@@ -5,7 +5,7 @@
 
 
 ## Data Collector
-
+The usage is the same as [GCC-CL](https://github.com/gjy3035/GCC-CL).
 
 ## Data Labeler
 Change generated source file path and run `python main.py` in [Labeler](Labeler/main.py).
