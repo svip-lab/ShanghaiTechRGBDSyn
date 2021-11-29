@@ -6,7 +6,8 @@ todo
 
 ## Data Collector
 The usage is the same as [GCC-CL](https://github.com/gjy3035/GCC-CL).
-This part will be updated on Feb 2022 since the windows computer is not in hand.
+
+This part will be updated on Feb 2022 since the windows computer is not in hand. You can submit new issues if you have any questions. 
 
 ## Data Labeler
 Change generated source file path and run `python main.py` in [Labeler](Labeler/main.py).
