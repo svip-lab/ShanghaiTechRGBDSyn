@@ -1,5 +1,5 @@
 # ShanghaiTechRGBDSyn
-[TPAMI] Locating and Counting Heads in Crowds With a Depth Prior
+[TPAMI] Locating and Counting Heads in Crowds With a Depth Prior [[Paper]](https://ieeexplore.ieee.org/document/9601215/)
 
 ## Download ShanghaiTechRGBDSyn
 todo
