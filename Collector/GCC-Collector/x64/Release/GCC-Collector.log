@@ -1,0 +1,11 @@
+﻿  createCrowd.cpp
+    正在创建库 C:\Users\51604\Desktop\GCC-CL-master\GCC-Collector\x64\Release\GCC-Collector.lib 和对象 C:\Users\51604\Desktop\GCC-CL-master\GCC-Collector\x64\Release\GCC-Collector.exp
+  正在生成代码
+  0 of 31 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+DirectXTK.lib(pch.obj) : warning LNK4099: 未找到 PDB“DirectXTK.pdb”(使用“DirectXTK.lib(pch.obj)”或在“C:\Users\51604\Desktop\GCC-CL-master\GCC-Collector\x64\Release\DirectXTK.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DirectXTK.lib(ScreenGrab.obj) : warning LNK4099: 未找到 PDB“DirectXTK.pdb”(使用“DirectXTK.lib(ScreenGrab.obj)”或在“C:\Users\51604\Desktop\GCC-CL-master\GCC-Collector\x64\Release\DirectXTK.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+DirectXTK.lib(WICTextureLoader.obj) : warning LNK4099: 未找到 PDB“DirectXTK.pdb”(使用“DirectXTK.lib(WICTextureLoader.obj)”或在“C:\Users\51604\Desktop\GCC-CL-master\GCC-Collector\x64\Release\DirectXTK.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  GCC-Collector.vcxproj -> C:\Users\51604\Desktop\GCC-CL-master\GCC-Collector\x64\Release\GCC-Collector.asi
