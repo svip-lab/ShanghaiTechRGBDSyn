@@ -5,7 +5,7 @@
 todo
 
 ## Data Collector
-The usage is the same as [GCC-CL](https://github.com/gjy3035/GCC-CL). Compailed file is in [attachment](attachment/Collector.asi).
+The usage is the same as [GCC-CL](https://github.com/gjy3035/GCC-CL). The compailed file is in [attachment](attachment/Collector.asi).
 
 ## Data Labeler
 Change generated source file path and run `python main.py` in [Labeler](Labeler/main.py).
