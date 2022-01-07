@@ -2,7 +2,7 @@
 [TPAMI] Locating and Counting Heads in Crowds With a Depth Prior [[Paper]](https://ieeexplore.ieee.org/document/9601215/)
 
 ## Download ShanghaiTechRGBDSyn
-[Onedrive](https://shanghaitecheducn-my.sharepoint.com/:f:/g/personal/chenxn1_shanghaitech_edu_cn/EixjWCNXiytOnHydqInpNTsB_563QOCAY0kG3pWP5CvpWQ?e=BBdnjr)
+[Onedrive](https://shanghaitecheducn-my.sharepoint.com/:f:/g/personal/chenxn1_shanghaitech_edu_cn/EixjWCNXiytOnHydqInpNTsB_563QOCAY0kG3pWP5CvpWQ?e=BBdnjr).
 
 ## Data Collector
 The usage is the same as [GCC-CL](https://github.com/gjy3035/GCC-CL). The compailed file is in [attachment](attachment/Collector.asi).
