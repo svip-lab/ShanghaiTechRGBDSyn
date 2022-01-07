@@ -16,7 +16,7 @@ This repository borrows partially from the [GTAVisionExport](https://github.com/
 
 ## Citation
 
-If you find this repository useful for your research, please use the following.
+If you find this repository useful for your research, please use the following:
 
 ```
 @article{lian2021locating,
